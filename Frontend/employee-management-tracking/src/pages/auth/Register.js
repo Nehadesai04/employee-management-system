@@ -197,27 +197,7 @@ flexDirection: { xs: "column", md: "row" },
                   },
                 }}
               />
-
-              {/* <TextField
-                select
-                fullWidth
-                margin="normal"
-                label="Select Role"
-                name="role"
-                value={formData.role}
-                onChange={handleChange}
-                sx={{
-                  "& .MuiOutlinedInput-root": {
-                    borderRadius: 3,
-                  },
-                }}
-              >
-                <MenuItem value="employee">👨‍💼 Employee</MenuItem>
-
-                <MenuItem value="manager">👨‍💻 Manager</MenuItem>
-
-                <MenuItem value="admin">🛡️ Admin</MenuItem>
-              </TextField> */}
+          
 
               <Button
                 disabled={loading}
