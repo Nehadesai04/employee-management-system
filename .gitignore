@@ -1,0 +1,10 @@
+Backend/employee-managment-backend/node_modules/
+Frontend/employee-management-tracking/node_modules/
+
+Backend/employee-managment-backend/.env
+Frontend/employee-management-tracking/.env
+
+build/
+dist/
+
+.vscode/
