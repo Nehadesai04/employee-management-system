@@ -11,7 +11,6 @@ import {
   TextField,
   Button,
   Box,
-  MenuItem,
 } from "@mui/material";
 
 function Register() {
